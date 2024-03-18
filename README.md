@@ -32,5 +32,8 @@ From this point the program should be running in the terminal.
 The menu should be displayed in the program and can proceed following the menu.
 
 Note: The program will work assuming that the jdbc .jar file is installed and set up in the computer.
+      I also added the zip file including the source code and everything else in case sth goes wrong.
+
+      
 
 
